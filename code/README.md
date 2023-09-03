@@ -2,6 +2,12 @@
 
 _Tool for aspect extraction from Russian texts_
 ## Installation and preparation
+To install:
+
+`git clone https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts`
+
+Please download weights file from [here](https://disk.yandex.ru/d/31i9D65Z25cj6Q)
+and put it to `aspect_extractor/weights`.
 
 ### How to use
 
