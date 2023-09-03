@@ -1,0 +1,8 @@
+nltk == 3.6.2
+numpy
+pymorphy2 == 0.9.1
+ru-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_lg-3.5.0/ru_core_news_lg-3.5.0-py3-none-any.whl
+scikit-learn
+spacy == 3.5.0
+tensorflow == 2.12.0
+transformers == 4.27.0

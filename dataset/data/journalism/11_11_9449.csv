@@ -1,0 +1,16 @@
+id,token,tag
+0,Предлагаемая,O
+1,публикация,O
+2,содержит,O
+3,подробный,O
+4,вариант,Contrib
+5,рабочей,Contrib
+6,программы,Contrib
+7,учебного,Contrib
+8,курса,Contrib
+9,«,Contrib
+10,Социология,Contrib
+11,массовой,Contrib
+12,коммуникации,Contrib
+13,»,Contrib
+14,..,O
