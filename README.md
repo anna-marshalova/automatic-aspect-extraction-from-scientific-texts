@@ -1,5 +1,5 @@
 # Automatic aspect extraction from scientific texts
-This repo cintains dataset and code for the paper [Automatic aspect extraction from scientific texts](https://arxiv.org/abs/2310.04074).  
+This repo contains dataset and code for the paper [Automatic aspect extraction from scientific texts](https://arxiv.org/abs/2310.04074).  
 This project is part of the [TERMinator](https://github.com/iis-research-team/terminator): a tool for information extraction from Russian scientific texts (repo might be closed due to paper review).
 
 
