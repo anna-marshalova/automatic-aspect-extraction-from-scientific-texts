@@ -7,12 +7,14 @@ This project is part of the [TERMinator](https://github.com/iis-research-team/te
 
 You can get aspect annotation in different formats.
 
+<table>
+<tr>
+       
+<td>
+<img alt = "Example of automatic annotation" src="https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts/assets/78635473/5df954f4-00a4-4e74-b150-119bd63cf982" width="500"></td>
 
-<img alt = "Example of automatic annotation" src="https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts/assets/78635473/5df954f4-00a4-4e74-b150-119bd63cf982" width="500">
-
-or 
-
-```
+<td>
+<pre>
 ЗАДАЧА
 1. Восстановление коэффициентов системы линейных разностных уравнений
 ВКЛАД
@@ -20,7 +22,12 @@ or
 2. Доказана сходимость и установлены оценки скорости сходимости метода
 МЕТОД
 1. Модификация метода обратной итерации
-```
+<pre\>
+
+</td>
+</tr>
+</table>
+
 
 ## How to use
 
