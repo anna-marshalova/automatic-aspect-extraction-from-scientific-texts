@@ -11,7 +11,7 @@ You can get aspect annotation in different formats.
 <tr>
        
 <td>
-<img alt = "Example of automatic annotation" src="https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts/assets/78635473/5df954f4-00a4-4e74-b150-119bd63cf982" width="1000"></td>
+<img alt = "Example of automatic annotation" src="https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts/assets/78635473/5df954f4-00a4-4e74-b150-119bd63cf982" width="2000"></td>
 
 <td>
 <pre>
