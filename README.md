@@ -24,7 +24,7 @@ or
 
 ## How to use
 
-1. Clone the repository: `git clone https://github.com/iis-research-team/automatic-aspect-extraction-from-scientific-texts.git `
+1. Clone the repository: `git clone https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts`
 2. Enter the module directory: `cd automatic-aspect-extraction-from-scientific-texts/src`
 3. Install requirements: `pip install -r requirements.txt`
 4. Download weights file from [here](https://disk.yandex.ru/d/31i9D65Z25cj6Q) and put it to `aspect_extractor/weights`.
