@@ -24,6 +24,12 @@ or
 
 ## How to use
 
+### Dataset
+1. Clone the repository: `git clone https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts` or download it as ZIP-file.
+2. You will find the annotated texts in  `automatic-aspect-extraction-from-scientific-texts/dataset/data`
+3. See [README.md](https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts/tree/cf428820e8e48e4723fea1b6eb9aef7d6a8d7f6f/dataset) for more details on the dataset.
+
+### Module
 1. Clone the repository: `git clone https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts`
 2. Enter the module directory: `cd automatic-aspect-extraction-from-scientific-texts/src`
 3. Install requirements: `pip install -r requirements.txt`
